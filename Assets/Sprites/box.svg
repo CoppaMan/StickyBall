@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg829"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="box.svg"
+   inkscape:export-filename="D:\project\Katamari\Assets\Models\box.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs823" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.359375"
+     inkscape:cx="128"
+     inkscape:cy="128"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata826">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-229.26665)">
+    <rect
+       style="fill:#0063ff;fill-opacity:1;stroke-width:0.26414135"
+       id="rect1374"
+       width="67.73333"
+       height="67.73333"
+       x="0"
+       y="229.26665" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.26458332;stroke-opacity:1"
+       id="path1376"
+       sodipodi:cx="31.56101"
+       sodipodi:cy="263.17111"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="34.622108"
+       sodipodi:argument="-17.875847"
+       sodipodi:t0="0"
+       d="m 31.56101,263.17111 c 0.975985,1.43555 -1.453572,2.02386 -2.385973,1.62215 -2.526749,-1.08859 -2.30687,-4.54886 -0.858327,-6.39409 2.591104,-3.30069 7.589434,-2.79268 10.40222,-0.0945 4.127877,3.95968 3.301601,10.6744 -0.66932,14.41035 -5.292613,4.97942 -13.775534,3.82089 -18.418466,-1.43315 -5.842656,-6.61167 -4.345656,-16.88448 2.196967,-22.42659 7.923993,-6.71224 19.997843,-4.8736 26.434712,2.96079 7.585628,9.23257 5.403561,23.11397 -3.724613,30.44284 -10.538839,8.46147 -26.231927,5.93485 -34.450959,-4.48844 -9.3389862,-11.8436 -6.4670781,-29.35118 5.25226,-38.45908 13.147326,-10.21769 32.471377,-6.99998 42.467205,6.01608 11.097264,14.4503 7.533391,35.59228 -6.779906,46.47533"
+       transform="matrix(0.66055972,0,0,0.67482409,11.3857,85.725866)" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2017.4.18f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=4 insize=1550 outsize=2835 ok=1
+Cmd: disassembleShader
+  api=4 insize=1602 outsize=2933 ok=1
+Cmd: disassembleShader
+  api=4 insize=6118 outsize=8748 ok=1
+Cmd: disassembleShader
+  api=4 insize=1982 outsize=3444 ok=1
+Cmd: disassembleShader
+  api=4 insize=6050 outsize=8561 ok=1
+Cmd: disassembleShader
+  api=4 insize=1822 outsize=3236 ok=1
+Cmd: disassembleShader
+  api=4 insize=2286 outsize=3957 ok=1
